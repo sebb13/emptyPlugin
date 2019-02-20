@@ -19,8 +19,6 @@
  */
 final class EmptyPlugin extends CoreCommon {
 	
-	private $oContactMgr = NULL;
-	
 	public function __construct() {
 		parent::__construct();
 	}
