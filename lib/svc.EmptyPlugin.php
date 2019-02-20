@@ -21,6 +21,9 @@ final class EmptyPlugin extends CoreCommon {
 	
 	public function __construct() {
 		parent::__construct();
+		/*
+		Vous pouvez ici instancier la classe métier de votre application par exemple
+		 */
 	}
 	
 	public function getDashboard() {
