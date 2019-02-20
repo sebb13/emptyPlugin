@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<conf>
+	<SYS_MOD_NAME><![CDATA[emptyPlugin]]></SYS_MOD_NAME>
+	<SYS_MOD_VERSION><![CDATA[0.1.0]]></SYS_MOD_VERSION>
+	<SYS_NEED_DB><![CDATA[NO]]></SYS_NEED_DB>
+	<SYS_LAST_CACHE><![CDATA[20190220 - 11:04:28]]></SYS_LAST_CACHE>
+</conf>
